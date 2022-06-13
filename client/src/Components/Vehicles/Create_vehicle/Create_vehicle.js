@@ -217,7 +217,6 @@ class CreateVehicel extends Component {
                                             
                                             />
                                             <p>(put correct address and Land phone number if you own a "Car Sale")</p>
-                                          
                                             (Do not post your website URL)
                                     </div>
                                     
